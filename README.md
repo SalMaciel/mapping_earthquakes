@@ -14,4 +14,4 @@ In this challenge an interactive map was created that shows tectonic plate lines
 Map screenshot  
 ![map screenshot](map.png)  
 Code snippet  
-![code snippet](code.png)
+![code snippet](code.PNG)
