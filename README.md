@@ -10,3 +10,5 @@ In this challenge an interactive map was created that shows tectonic plate lines
 - Mapbox
 - Leaflet
 - data from earthquake.usgs.gov
+### Screenshots
+![map screenshot](map.png)
